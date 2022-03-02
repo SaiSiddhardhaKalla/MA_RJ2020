@@ -1,0 +1,60 @@
+html {
+      font-size: 62.5%;}
+
+    body {
+        font-size: 1.5em;
+        line-height: 1.6;
+        font-weight: 400;
+        font-family: 'HelveticaNeue', sans-serif,'Open Sans', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell;
+        color: rgb(50, 50, 50);  }
+
+.wrapper{
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 2fr;
+    /* grid-template-rows: auto; */
+    grid-template-rows: 70px 3fr 0.5fr 3fr 1.5fr;
+    gap: 0.2rem;
+    /* background: bl; */
+    grid-template-areas: 
+    "header header"
+    "drop graph"
+    "out graph"
+    "mark graph"
+    "table table";
+    }
+
+.Header{
+    grid-area: header;
+    }
+.dropdown{
+    grid-area: drop;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 0.2em;
+    /* border: 0em;
+    border-color: black; 
+    background: black; */
+    }
+    /* .District{
+    grid-area: dist;
+    }
+    .AC{
+    grid-area: ac; 
+    }  */
+.map{
+    grid-area: graph;
+    /* background: yellowgreen; */
+        }
+.output{
+    grid-area: out;
+    /* background: maroon; */
+    }
+.Markdown{
+    grid-area: mark;
+    /* background: teal; */
+    } 
+.indi_details{
+  grid-area: table;
+  /* background: red; */
+}

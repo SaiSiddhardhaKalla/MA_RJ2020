@@ -1,0 +1,92 @@
+Parameters,Question,Max Attainable Score
+Agriculture (0-7),"Number of households engaged majorly in 
+Farm activities",2
+Agriculture (0-7),Availability of government seed centres,2
+Agriculture (0-7),"Whether this village is a part of the 
+Watershed Development Project",1
+Agriculture (0-7),Does the village has any Farmers Collective,1
+Agriculture (0-7),"Availability of Primary Processing facilities 
+at the village level",1
+Land Improvement & Minor Irrigation (0-9),Availability of soil testing centres,2
+Land Improvement & Minor Irrigation (0-9),Availability of fertilizer shop,2
+Land Improvement & Minor Irrigation (0-9),Main Source of irrigation,2
+Land Improvement & Minor Irrigation (0-9),"Number of farmers using drip/sprinkler 
+irrigation",1
+Land Improvement & Minor Irrigation (0-9),"Total area irrigated (in hectare), If in acres 
+divide by 2.47",2
+Animal Husbandry (0-6),"Does the village have Livestock Extension 
+services",1
+Animal Husbandry (0-6),"Availability of Milk Collection Centre /Milk 
+routes / Chilling Centres",1
+Animal Husbandry (0-6),"Any Project supporting Poultry 
+Development",1
+Animal Husbandry (0-6),"Any Project supporting Goatary 
+Development",1
+Animal Husbandry (0-6),Availability of Veterinary Clinic or Hospital,2
+Fisheries (0-2),"Pisciculture - InLand Fishery/Coastal 
+Fishery/Any Other",1
+Fisheries (0-2),Extension facilities for Aquaculture,1
+Rural Housing (0-4),"No of household with kuccha wall and 
+kuccha roof",4
+Drinking Water (0-3),Availability of Piped tap water,3
+Roads (0-8),"Whether the village is connected to All 
+weather road",3
+Roads (0-8),"Whether village has internal pucca roads 
+(cc/ brick road)",1
+Roads (0-8),Availability of Public Transport,2
+Roads (0-8),Availability of Railway Station,2
+Rural Electrification (0-3),Availability of electricity for domestic use,3
+Non-Conventional Energy (0-1),"Use of Solar Energy/Wind Energy for 
+electrification of the house",1
+Fuel & Fodder (0-1),Common pastures as per revenue records,1
+Libraries (0-1),Availability of Public Library,1
+Cultural Activities (0-1),"Availability of recreational centre/Sports 
+Playground etc",1
+Financial & Communication Infrastructure (0-9),Availability of banks,2
+Financial & Communication Infrastructure (0-9),"Availability of Business Correspondent with 
+internet connectivity?",1
+Financial & Communication Infrastructure (0-9),Availability of ATM,2
+Financial & Communication Infrastructure (0-9),Availability of Post office/Sub-Post office,2
+Financial & Communication Infrastructure (0-9),Availability of telephone services,1
+Financial & Communication Infrastructure (0-9),Availability of Internet/BroadBand Facility,2
+Public Distribution System (0-2),"Availability of Public Distribution System 
+(PDS)",2
+Education (0-6),Availability of Primary School,1
+Education (0-6),Availability of Middle School,2
+Education (0-6),Availability of High School,3
+Education (0-6),"Availability of Higher/Senior Secondary 
+School",4
+Education (0-6),Availability of Degree College,2
+Vocational Education (0-2),"Availability of Vocational Training 
+Centre/Polytechnic/ITI/RSETI /DDU-GKY",2
+Markets & Fairs (0-3),Availability of markets,3
+Health & Sanitation (0-11),Availability of Sub centre PHC/CHC,2
+Health & Sanitation (0-11),Availability of Jan Aushadhi Kendra,1
+Health & Sanitation (0-11),Availability of drainage facilities,3
+Health & Sanitation (0-11),Community waste disposal system,1
+Health & Sanitation (0-11),"Total no of households using clean energy 
+(LPG/Bio gas)",2
+Health & Sanitation (0-11),Community bio gas or recycle of waste,1
+Women & Child Development (0-7),Availability of Aanganwadi Centre,2
+Women & Child Development (0-7),"Total no of children aged 0-3 years 
+registered in Aanganwadi",2
+Women & Child Development (0-7),No of children aged 0-3 years immunized,1
+Women & Child Development (0-7),"No of children categorized as Non-Stunted 
+as per ICDS record",2
+Family Welfare (0-1),"Availability of Mother and Child Health 
+facilities",1
+Poverty Alleviation Programme (0-6),Number of households mobilized into SHGs,2
+Poverty Alleviation Programme (0-6),"Number of SHGs federated into Village 
+Organisations (VOs)",1
+Poverty Alleviation Programme (0-6),"Number of households mobilized into 
+Producer Groups (PGs)",1
+Poverty Alleviation Programme (0-6),No of SHGs which accessed bank loans,2
+"Khadi, Village & Cottage Industries (0-3)",Bee Keeping,1
+"Khadi, Village & Cottage Industries (0-3)",Sericulture (Silk Production),1
+"Khadi, Village & Cottage Industries (0-3)",Handloom,1
+Social Forestry (0-1),Availability of Community Forest,1
+Minor Forest Produce,Availability of minor forest production,0
+Small Scale Industries (0-1),"Availability of cottage and small scale units 
+(Fabrication/Construction material/Dairy 
+based/Textile etc.) units",1
+Adult & Non-Formal Education (0-1),Availability of Adult Education Centre,1
